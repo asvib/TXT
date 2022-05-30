@@ -1,0 +1,5 @@
+movie: "Apocalypse now"
+ser: "Fargo"
+food: "Meat"
+season: "autumn"
+country": "USA"

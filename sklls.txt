@@ -1,0 +1,9 @@
+Basic theory: Bug reports, documentation, types, methods
+HTTP: 1. What is a client-server architecture; 2. HTTP Methods of requests to the server; 3.HTTP server response codes; 4. Structures of HTTP requests and responses
+API testing": Postman,
+Dev Tools of web browsers: Google Chrome, FireFox,
+VPN: How it works, why you need it, how to use it, tool options,
+Mobile testing": 1. Feature iOS, Android, guidelines; 2. Building iOS applications on XCode; 3.Building Android applications on Android Studio"; 4. ADB
+Linux: Command line (terminal)
+SQL: Create, Delete, Drop, Insert Into, Select, From, Where, Join
+Load testing: Jmeter
